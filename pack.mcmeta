@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "description": {
+      "text": "Darkages CIM Oils",
+      "color": "#05c208",
+      "bold": true
+    },
+    "pack_format": 57,
+    "supported_formats": {
+      "min_inclusive": 9,
+      "max_inclusive": 64
+    }
+  }
+}
